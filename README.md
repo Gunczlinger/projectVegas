@@ -1,5 +1,9 @@
 # projectVegas
-No-risk online multiplayer casino
+project Vegas is a no-risk online casino meant to provide hobbyists and aspiring professionals an opportunity to learn and practice casino games in a safe and controlled environment.
+
+Participants will have access to tutorials as well as the full "behind the scenes" of their games in order to better understand a strategies for each game of chance (before human elements are introduced).
+
+
 
 ## Minimum Viable Product
 + Game Selection Dashboard
