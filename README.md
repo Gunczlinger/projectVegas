@@ -8,11 +8,15 @@ Participants will have access to tutorials as well as the full "behind the scene
 ## Minimum Viable Product
 + Game Selection Dashboard
 + Up on server for multi-user functionality
-+ 1 functioning game (Blackjack)
++ 1 functioning game (Slots)
 + Terminal to request game data
 
 ## Iteration 1
 + Game Selection Dashboard mockup
+
+## Iteration 2
++ Slots backend
++ Beginning of terminal functionality
 
 ## Future Goals
 + Single-player AI
