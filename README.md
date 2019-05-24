@@ -24,7 +24,8 @@ Participants will have access to tutorials as well as the full "behind the scene
 + OmniAuth login through GitHub and user recognition
 
 ## Iteration 4
-+ Basic slots functionality
++ Basic slots functionality redone using MVC
++ Working links to game page
 
 ## Future Goals
 + Single-player AI
