@@ -18,8 +18,17 @@ Participants will have access to tutorials as well as the full "behind the scene
 + Slots backend
 + Beginning of terminal functionality
 
+## Iteration 3
++ Dashboard up on server
++ Slots frontend
++ OmniAuth login through GitHub and user recognition
+
+## Iteration 4
++ Basic slots functionality
+
 ## Future Goals
 + Single-player AI
++ Game graphics
 + 5-6 games
     * Roulette
     * Slots
